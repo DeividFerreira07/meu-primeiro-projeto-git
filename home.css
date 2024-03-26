@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+header{
+   margin: 47px 0 0 42px;
+}
+
+.link-a{
+    width: 79px;
+    height: 21px;
+    margin-left: 32px;
+    cursor: pointer;
+    color: #17233D;
+}
+
+.link-a:hover{
+    color: #1656e0;
+}
+
+.link-a:active{
+    color: #1f12da;
+}
+
+button{
+    width: 124px;
+    height: 51px;
+    margin-left: 32px;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+    background: #6FBF44;
+
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+button:hover{
+    background: #5af607;
+}
+
+button:active{
+    background: #194104;
+}
+
+img{
+    width:595.18px;
+    height:500px;
+    margin: 246px 0 0 121px;
+    display: inline-block;
+}
+
+.lado-direito{
+    display: inline-block;
+}
+
+h1{
+    width: 582px;
+    height: 164px;
+    margin-left: 84.82px;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    color: #161A49;
+}
+
+p{
+    width: 493px;
+    height: 99px;
+    margin: 47px 0 0 84.82px;
+    color: #4B505A;
+}
+
+.link-div{
+    width: 112px;
+    height: 27px;
+    margin: 55px 0 0 84.82px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #6FBF44;
+    cursor: pointer;
+    
+}
+
+.link-div:hover{
+    color: #5bf905;
+}
+
+.link-div:active{
+    color: #317708;
+}
